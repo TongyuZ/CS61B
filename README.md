@@ -1,2 +1,2 @@
 # CS61B
-# Learning Java from scratch!
+Learning Java from scratch!
